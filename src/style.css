@@ -1,6 +1,6 @@
 
 body{
-  background-color: #e4ddff;
+  background-color: #c9bef6;
 
 }
 
@@ -26,6 +26,16 @@ h2 {
   font-family: sans-serif;
 }
 
+p {
+  font-size: 12px;
+  color: #ffffff;
+  margin-top: 6px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: sans-serif;
+  text-align: center;
+}
 .button {
   justify-content: center;
   width: 450px;    
@@ -35,7 +45,7 @@ h2 {
   margin-left: auto;
   background-color: #d2d5f0;
   border-radius: 10px;
-  color: #ffffff;
+  color: #020101;
 }
 
 .input{        
